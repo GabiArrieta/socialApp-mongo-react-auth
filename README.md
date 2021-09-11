@@ -1,10 +1,10 @@
 # Share a post - Social App
 
+## Mern application
+
+App developed using React, Node.js, Express & MongoDB 
+
 <img src='./client/src/images/image0.png' />
-
-## Introduction
-
-Using React, Node.js, Express & MongoDB I developed a Full Stack MERN Application  
 
 The App is a simple social media app that allows users to post and share publications with other people,
 and it has authentication with google.
